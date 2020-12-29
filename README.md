@@ -1,2 +1,2 @@
 # ARIMA_forecasting
-ARIMA forecasting with share prices sourced from pandas_datareader.
+ARIMA forecasting with share prices sourced from Yahoo Finance.
